@@ -19,6 +19,5 @@ added conditional statement’s such as remove 0 and enter infinity. and test
 code for multiple threads. 
 3) Added time to calculate time required to calculate
 different number of threads. 
-
-4)I added one more for loop in order to change
+4) I added one more for loop in order to change
 thread numbers.
